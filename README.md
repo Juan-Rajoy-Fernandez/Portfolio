@@ -3,4 +3,4 @@ Welcome! This repository is a living archive of my technical journey outside the
 
 The projects here are a mix of quantitative finance experiments and "just for fun" builds that keep my logic sharp.
 
-Feel free to use the code uploaded, it is basic, but certainly help understand the concepts they are about.
+Feel free to use the code uploaded, it is basic, but certainly helps understand the concepts they are about.
